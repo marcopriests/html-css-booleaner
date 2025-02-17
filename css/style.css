@@ -11,16 +11,21 @@ header {
 }
 
 #header-logo {
-    width: 300px;
+    width: 500px;
     margin: 100px 0px 0px 10px;
 }
 
 main {
-    margin: 30px 0px 0px 10px;
+    margin: 50px 0px 0px 10px;
+}
+
+h1 {
+    font-size: 60px;
 }
 
 .article-info {
     color: gray;
+    font-size: 16px;
 }
 
 .writer-name {
@@ -29,7 +34,7 @@ main {
 }
 
 .article-date {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .gallery {
@@ -37,11 +42,11 @@ main {
 }
 
 .gallery-img {
-    height: 250px;
+    height: 550px;
 }
 
 .gallery-description {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .article-body {
@@ -55,7 +60,7 @@ main {
 
 #article-list {
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 16px;
 }
 
 table {
