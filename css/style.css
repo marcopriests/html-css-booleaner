@@ -14,3 +14,32 @@ header {
     width: 180px;
     margin: 30px 0px 0px 10px;
 }
+
+#main-section {
+    margin: 30px 0px 0px 10px;
+}
+
+.article-info {
+    color: gray;
+}
+
+.writer-name {
+    color: #4f9ffd;
+    font-weight: 900;
+}
+
+.article-date {
+    font-size: 10px;
+}
+
+.gallery {
+    margin-top: 30px;
+}
+
+.gallery-img {
+    height: 250px;
+}
+
+.gallery-description {
+    font-size: 10px;
+}
