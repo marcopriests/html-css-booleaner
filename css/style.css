@@ -82,3 +82,24 @@ th, td{
 .big-column {
     width: 50%;
 }
+
+h4 {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.recommended {
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.recommended-1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+.recommended-2 {
+    background-image: url(../img/graph.jpg);
+}
