@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4f9ffd;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+#header-logo {
+    width: 500px;
+    margin: 100px 0px 0px 20%;
+}
+
+main {
+    margin: 50px auto 0 auto;
+    width: 60%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.article-info {
+    color: gray;
+    font-size: 16px;
+}
+
+.writer-name {
+    color: #4f9ffd;
+    font-weight: 900;
+}
+
+.article-date {
+    font-size: 12px;
+}
+
+.gallery {
+    margin-top: 30px;
+}
+
+.gallery-img {
+    height: 550px;
+}
+
+.gallery-description {
+    font-size: 12px;
+}
+
+.article-body {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+#article-list {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+table {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+    width: 99%;
+}
+
+thead {
+    color: white;
+    background-color: #4f9ffd;
+}
+
+.odd-tr {
+    background-color: aqua;
+}
+
+th,
+td {
+    padding: 20px 0px 20px 5px;
+    width: 25%;
+}
+
+.big-column {
+    width: 50%;
+}
+
+h4 {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.recommended {
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.recommended-1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+.recommended-2 {
+    background-image: url(../img/graph.jpg);
+}
