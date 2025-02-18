@@ -67,22 +67,22 @@ table {
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: left;
-    width: 99%;
+    width: 100%;
+    border-collapse: collapse;
 }
 
 thead {
     color: white;
-    background-color: #4f9ffd;
+    background-color: #4fa0fd;
 }
 
 .odd-tr {
-    background-color: aqua;
+    background-color: #4fa0fd85;
 }
 
 th,
 td {
     padding: 20px 0px 20px 5px;
-    width: 25%;
 }
 
 .big-column {
